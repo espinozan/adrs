@@ -34,8 +34,8 @@ Para instalar y configurar **ADRS**, sigue estos pasos:
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/espinozan/ADRS.git
-   cd ADRS
+   git clone https://github.com/espinozan/adrs.git
+   cd adrs
    ```
 
 2. **Permisos de Ejecución**:
@@ -49,7 +49,7 @@ Para instalar y configurar **ADRS**, sigue estos pasos:
 Para ejecutar **ADRS**, simplemente inicia PowerShell como administrador y ejecuta el archivo principal del script.
 
 ```powershell
-.\ADRS.ps1
+.\adrs.ps1
 ```
 
 Una vez iniciado, el script mostrará un **menú interactivo** que permite elegir entre varias opciones de recopilación de información. A continuación, se explica el funcionamiento de cada opción del menú.
@@ -92,7 +92,7 @@ Para cada opción del menú, **ADRS** da la posibilidad de exportar los resultad
 
 ## Ejemplo de Flujo de Trabajo
 
-1. Ejecuta `ADRS.ps1` como administrador.
+1. Ejecuta `adrs.ps1` como administrador.
 2. Elige la opción **Recopilación Completa y Detallada** para obtener toda la información del dominio en un solo paso.
 3. Selecciona el formato de exportación **CSV** para analizar los resultados en Excel o **JSON** para integrarlo en otras herramientas de análisis.
 4. Revisa los archivos exportados para identificar posibles riesgos o áreas de interés en la configuración de Active Directory.
