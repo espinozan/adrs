@@ -117,16 +117,3 @@ Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT) 
 ¡Gracias por usar **ADRS**! Si tienes sugerencias o encuentras problemas, no dudes en crear un issue en el repositorio o contactarme directamente en GitHub.
 
 ---
-
-```
-
-### Explicación de las Secciones
-
-- **Descripción General** y **Características**: Estas secciones explican la finalidad de la herramienta y destacan sus características principales.
-- **Instalación** y **Uso**: Guían al usuario para clonar, configurar y ejecutar el script, incluyendo explicaciones sobre el menú interactivo.
-- **Exportación de Resultados** y **Requisitos Previos**: Detallan cómo exportar los datos y los requisitos necesarios para su uso.
-- **Ejemplo de Flujo de Trabajo**: Ayuda al usuario a entender cómo utilizar **ADRS** de manera efectiva en un escenario típico.
-- **Seguridad** y **Limitaciones**: Informan al usuario sobre el contexto de uso y las posibles limitaciones en ciertos entornos.
-- **Licencia**: Aclara la licencia del proyecto.
-
-Esta documentación es completa y fácil de entender para cualquier usuario interesado en usar o contribuir al proyecto en GitHub. ¡Espero que te sea útil!
