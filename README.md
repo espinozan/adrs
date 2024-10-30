@@ -35,7 +35,7 @@ Para instalar y configurar **ADRS**, sigue estos pasos:
 1. **Clonar el Repositorio**:
    ```bash
    git clone https://github.com/espinozan/adrs.git
-   cd adrs```
+   cd adrs
 
 2. **Permisos de Ejecución**:
    Asegúrate de tener permisos de administrador para ejecutar el script. ADRS verificará automáticamente si tienes permisos de administrador al inicio y, si no, te dará la opción de relanzar el script como administrador.
@@ -48,7 +48,8 @@ Para instalar y configurar **ADRS**, sigue estos pasos:
 Para ejecutar **ADRS**, simplemente inicia PowerShell como administrador y ejecuta el archivo principal del script.
 
 ```powershell
-.\adrs.ps1 ```
+.\adrs.ps1
+
 ```
 
 Una vez iniciado, el script mostrará un **menú interactivo** que permite elegir entre varias opciones de recopilación de información. A continuación, se explica el funcionamiento de cada opción del menú.
