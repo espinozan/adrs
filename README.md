@@ -37,6 +37,7 @@ Para instalar y configurar **ADRS**, sigue estos pasos:
    git clone https://github.com/espinozan/adrs.git
    cd adrs
    ```
+```
 
 2. **Permisos de Ejecución**:
    Asegúrate de tener permisos de administrador para ejecutar el script. ADRS verificará automáticamente si tienes permisos de administrador al inicio y, si no, te dará la opción de relanzar el script como administrador.
